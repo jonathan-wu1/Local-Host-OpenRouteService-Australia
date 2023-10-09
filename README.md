@@ -9,3 +9,7 @@ The code was run using wsl2 and docker.
 
 cd openrouteservice \
 docker compose up
+
+## Example call
+
+In testinglocalhost.ipynb there is an example of a sample call, as well as extracting the route distance.
