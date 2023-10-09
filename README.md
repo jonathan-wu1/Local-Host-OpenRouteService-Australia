@@ -6,5 +6,5 @@ This is the code used to host a local OpenRouteService Server using docker. By d
 
 ## How to use
 
-cd openrouteservice
+cd openrouteservice \
 docker compose up
