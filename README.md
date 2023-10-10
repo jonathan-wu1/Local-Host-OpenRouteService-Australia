@@ -7,7 +7,7 @@ The code was run using wsl2 and docker.
 
 ## How to use
 
-cd openrouteservice \
+cd ors \
 docker compose up
 
 ## Example call
